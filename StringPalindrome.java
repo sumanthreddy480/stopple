@@ -6,7 +6,7 @@ public class StringPalindrome {
 
 		String str = "MADAM";
 
-		String reverse = "";:
+		String reverse = "";
 
 		for (int i = str.length() - 1; i >= 0; i--) {
 
